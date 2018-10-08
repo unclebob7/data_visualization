@@ -1,0 +1,31 @@
+world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year
+1,Harvard University,USA,1,7,9,1,1,1,1,,5,100,2012
+2,Massachusetts Institute of Technology,USA,2,9,17,3,12,4,4,,1,91.67,2012
+3,Stanford University,USA,3,17,11,5,4,2,2,,15,89.5,2012
+4,University of Cambridge,United Kingdom,1,10,24,4,16,16,11,,50,86.17,2012
+5,California Institute of Technology,USA,4,2,29,7,37,22,22,,18,85.21,2012
+6,Princeton University,USA,5,8,14,2,53,33,26,,101,82.5,2012
+7,University of Oxford,United Kingdom,2,13,28,9,15,13,19,,26,82.34,2012
+8,Yale University,USA,6,14,31,12,14,6,15,,66,79.14,2012
+9,Columbia University,USA,7,23,21,10,13,12,14,,5,78.86,2012
+10,"University of California, Berkeley",USA,8,16,52,6,6,5,3,,16,78.55,2012
+11,University of Chicago,USA,9,15,26,8,34,20,28,,101,73.82,2012
+12,Cornell University,USA,10,21,42,14,22,21,16,,10,73.69,2012
+13,University of Pennsylvania,USA,11,31,16,24,9,10,8,,9,73.64,2012
+14,University of Tokyo,Japan,1,32,19,31,8,19,23,,3,69.49,2012
+15,Johns Hopkins University,USA,12,34,77,20,11,9,9,,7,66.94,2012
+16,Swiss Federal Institute of Technology in Zurich,Switzerland,1,26,66,11,40,51,44,,34,66.69,2012
+17,Kyoto University,Japan,2,42,38,19,25,36,43,,23,65.76,2012
+18,Weizmann Institute of Science,Israel,1,4,101,22,101,67,101,,29,65.09,2012
+19,"University of California, Los Angeles",USA,13,62,59,23,3,11,6,,13,64.05,2012
+20,"University of California, San Diego",USA,14,61,101,15,10,8,10,,22,63.11,2012
+21,Rockefeller University,USA,15,1,101,16,101,28,96,,101,61.74,2012
+22,Hebrew University of Jerusalem,Israel,2,24,93,13,101,91,101,,28,60.76,2012
+23,New York University,USA,16,89,75,17,42,24,34,,62,60.55,2012
+24,"University of California, San Francisco",USA,17,101,101,21,19,3,13,,33,59.7,2012
+25,University of Wisconsin–Madison,USA,18,64,63,33,17,30,21,,21,59.66,2012
+26,University of Illinois at Urbana–Champaign,USA,19,82,101,18,35,71,39,,44,59,2012
+27,Duke University,USA,20,65,43,55,20,15,12,,20,58.37,2012
+28,Imperial College London,United Kingdom,3,84,73,35,26,26,29,,41,57.53,2012
+29,University of Texas Southwestern Medical Center,USA,21,19,101,32,101,43,84,,101,56.43,2012
+30,University of Texas at Austin,USA,22,101,78,27,41,47,40,,57,56.18,2012
